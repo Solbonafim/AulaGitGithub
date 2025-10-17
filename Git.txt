@@ -1,2 +1,4 @@
 início da aula de git
-criando a segunda linha
+Continuação da aula de Git
+Retornamos do intervalo
+Estamos trabalhando no pc de casa
