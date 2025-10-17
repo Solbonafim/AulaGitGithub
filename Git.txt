@@ -2,3 +2,4 @@ início da aula de git
 Continuação da aula de Git
 Retornamos do intervalo
 Estamos trabalhando no pc de casa
+adicionando uma quinta linhas
