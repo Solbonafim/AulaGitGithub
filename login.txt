@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Iniciando login
+=======
+iniciei o login
+>>>>>>> login
